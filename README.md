@@ -1,1 +1,1 @@
-A simple recipes webpage, containing an index.html file and a recipes.html file!
+A simple recipes webpage, containing an index.html file and a gyros-with-tzatziki.html file!
